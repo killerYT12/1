@@ -1,22 +1,16 @@
-thtfddtnbdndndndnddndn
-bgbgbgb
-gbgbg
-bg
-gb
-b
-g
-gg
-bbg
-gbbg
-gb
-gb
-gb
-ggb
-bg
-bg
-gbgb
-gb
-gb
+double S = a*b
+double P = 2*(a+b)
+res.setText("Площадь" + S "периметр" + P)
 
-дамир лох
+double x1
+double x2
+double S = Math.abs(x2,x1)
+res.setText("расстояние" + S)
 
+
+double V1 - Double.parsedouble(tf1.getText()))
+double V2 Double.parsedouble(tf1.getText()))
+double T Double.parsedouble(tf1.getText()))
+double S Double.parsedouble(tf1.getText()))
+double S2 = Math.abs(S-T*(V1+V2))
+res.setText("расстояние" S2)
